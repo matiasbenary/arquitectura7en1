@@ -1,0 +1,15 @@
+@import 'utils/variables';
+@import 'utils/mixins';
+
+@import 'vendors/bootstrap';
+
+@import 'base/reset';
+
+@import 'layout/footer';
+
+@import 'components/buttons';
+
+@import 'pages/home';
+
+@import 'themes/admin';
+// sass ./sass/main.scss ./css/style.css

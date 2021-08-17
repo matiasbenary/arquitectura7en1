@@ -1,0 +1,11 @@
+.btn-primary{
+  @include button(#FFF,$primary);
+}
+
+.btn-danger{
+  @include button(#FFF,$danger);
+}
+
+.btn-warning{
+  @include button(#FFF,$warning);
+}
